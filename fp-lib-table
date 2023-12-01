@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "Libraries")(type "KiCad")(uri "${KIPRJMOD}/Libraries.pretty")(options "")(descr ""))
+  (lib (name "_ProjectFootprints")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Part footprints")(options "")(descr ""))
 )
